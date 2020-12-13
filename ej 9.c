@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+ {
 int salcr=0,masprom=0,menprom=0,i=0;
 while(20>i){
   printf("Ingrese su salario correspondiente ");
