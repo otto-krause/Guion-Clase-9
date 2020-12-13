@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+ {
 	int n=0,npos=0,nneg=0,zr=0,i=0;
 	while(10>i){
 		printf("Ingrese un numero ");
